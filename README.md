@@ -14,7 +14,7 @@ yarn reset-git
 
 Add origin :
 
-git remote add origin git@github.com:Vivy/speed4courier.git
+git remote add origin (link from the project that you created)
 
 Change branch from master to main:
 
