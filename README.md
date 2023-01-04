@@ -2,7 +2,7 @@ How to start a new project.
 
 To clone the project :
 
-git clone git@github.com/marianzburlea/pug-starter speed4courier
+git clone git@github.com/marianzburlea/pug-starter (name)
 
 Install Yarn :
 
