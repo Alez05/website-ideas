@@ -1,4 +1,5 @@
-***How to start a new project.
+***
+How to start a new project.
 
 To clone the project :
 
@@ -25,4 +26,5 @@ Push :
 git push -u origin main
 
 To Delete a director in terminal: rm -r (directory name)
-To delete a file from terminal: rm -rf (file name)***
+To delete a file from terminal: rm -rf (file name)
+***
