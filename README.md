@@ -18,7 +18,7 @@ git remote add origin (link from the project that you created)
 
 Change branch from master to main:
 
-git branch -m main
+git branch -M main
 
 Push :
 
